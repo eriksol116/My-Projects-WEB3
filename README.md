@@ -1,6 +1,6 @@
 # eriksol116's Blockchain Projects: (BITCOIN / SOLANA / EVM / TON)
 
-You can find my past works here. Some of projects(repos) are in private status.
+Welcome to my GitHub project repository! 🚀 Here, you’ll find a mix of my past projects—some are public, while others are private. If you're curious about any of my work, feel free to reach out!
 
 <h3><u><strong><i>JIPRED - Token swap page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
