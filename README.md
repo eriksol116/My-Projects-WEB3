@@ -2,6 +2,26 @@
 
 You can find my past works here. Some of projects(repos) are in private status.
 
+<h3><u><strong><i>JIPRED - Token swap page</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+
+<img align="right" height="200px" src="https://github.com/user-attachments/assets/4a24a875-3e8f-425a-8258-5d215ea80271">
+This is SPL Token Swap project on Solana network. Users can exchange JIPRED with Sol Usdt each other. </br>
+</br>
+* Built Admin and User Page</br>
+* Built frontend/backend for admin page to deposit and withdraw spl token.</br>
+* Built frontend/backend for User page to swap spl token with Usdt.</br>
+* Built smart contract to swap Token.</br>
+</br>
+
+- Live: <a href="https://solana-JIPRED-token-swap-dun.vercel.app" />JIPRED Swap Page</a>
+- Github repos: 
+  - Smart Contract repo: <a href="https://github.com/eriksol116/Token-swap-smart-contract">Token-Swap-Smart Contract</a>
+
+
+
+
 <h3><u><strong><i>Pump.fun - Ape.lol</i></strong></u> &nbsp;(Solana/Ethereum)</h3>
 <hr />
 
@@ -21,6 +41,7 @@ This is pump.fun project on Solana/Ethereum network. Launch a coin that is insta
 <h3><u><strong><i>Drvx-Token Swap Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
+
 <img align="right" height="200px" src="https://github.com/user-attachments/assets/811a58d7-b800-46ab-a0c7-b6328efe1cd0">
 This is SPL Token Swap project on Solana network. Users can exchange Drvx with Sol Usdt each other. </br>
 </br>
@@ -34,8 +55,74 @@ This is SPL Token Swap project on Solana network. Users can exchange Drvx with S
 - Github repos: 
   - Smart Contract repo: <a href="https://github.com/eriksol116/Token-swap-smart-contract">Token-Swap-Smart Contract</a>
 
+<h3><u><strong><i>LOKI - Token Claim Telegram mini app </i></strong></u> &nbsp;(Solana / Evm)</h3>
+<hr />
+
+<img align="right" height="200px" src="https://github.com/user-attachments/assets/8baea82b-d664-46a7-b47b-a1c175ba060d">
+This is SPL Token Claim project on Solana network and Evm. Users earn the points in game and they can claim that LOKI token with their points . </br>
+</br>
+* Built Admin and User Page</br>
+* Built frontend/backend for admin page to intinialize , and deposit and withdraw LOKI spl token.</br>
+* Built frontend/backend for User page to claim LOKI token with their points.</br>
+* Built smart contract to deposit and withdraw and claim Token.</br>
+</br>
+
+- Live: <a href="https://web.telegram.org/@lokiTokenbot" />Token Claim TG mini app</a>
+- Github repos: 
+  - Smart Contract repo: <a href="https://github.com/eriksol116/Token-i-d-w-c-smart-contract.git">Token-i-d-w-c-Smart-Contract</a>
 
 
+
+
+<h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" height="250px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
+
+This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi. 😜.
+
+Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
+
+- Live: <a href="https://degentaxi.io">Degen Taxi</a>
+- Github repos: 
+  - smart contract repo: <a href="https://github.com/eriksol116/Taxi_Game_Program">taxi-crash-solana-contract</a>
+
+  
+<h3><u><strong><i>Coinflip Game</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+
+
+
+<img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207527752-fb4e326a-1d7e-4ab6-bdc6-a30ad9d841d2.png" >
+
+This is the Coinflip game for Solana network
+
+- Original Link: <a href="https://coinflip.deezkits.com/" target="_blank">Coinflip Game</a>
+
+- Github repo: 
+  - Coinflip Game FE: <a href="https://github.com/eriksol116/Coinflip-Game/tree/main/coinflip-frontend" target="_blank">FE code</a>
+  - Coinflip Game BE: <a href="https://github.com/eriksol116/Coinflip-Game/tree/main/backend" target="_blank">BE code</a>
+  - Coinflip Game Program: <a href="https://github.com/eriksol116/Coinflip-Game/tree/main/coinflip-smart-contract" target="_blank">Program code</a>
+  
+- Social Link: <a href="https://mobile.twitter.com/deezkits" target="_blank">Deezkits-twitter</a>
+
+
+
+<h3><u><strong><i>Astronaut NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍🚀 NFT collections
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/171998607-ee9dee1f-58e2-470f-8976-5d36e3d17fc0.png">
+
+- Demo: <a href="http://astronaut-nft-staking-death.vercel.app">Astronaut Staking</a>
+- Live: <a href="https://minxlabs.io/cosmicastro/staking">cosmicastro NFT Staking </a>
+
+- Official Links:
+  - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
+  - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
+- Github repo: <a href="https://github.com/dev-tom-0108/Astronaut-NFT-Staking">Astronaut-NFT-Staking-death</a>
 
 
 <h3><u><strong><i>Inkubate Marketplace</i></strong></u> &nbsp;(Ethereum)</h3>
@@ -95,6 +182,72 @@ Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to p
 
 
 
+<h3><u><strong><i>EU(Eternal Underworld) Raffle</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166092522-f6b25eab-aefc-4278-9c2e-abd8f65712c0.png">
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🍂$REAP and $SOL.
+
+- Link: <a href="https://eu-raffle.vercel.app/raffle" target="_blank">EU Raffle</a>
+  - Payment method
+    - SOL
+    - $REAP (SPL token)
+  - Reward Type
+    - Reveive NFT
+    - Whitelist (Max value is 50)
+    - Tickets (Max value is 2000)
+- Original Links:
+  - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
+  - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
+  - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
+- Github repo: <a href="https://github.com/eriksol116/raffle-frank-rust" target="_blank">EU-raffle</a>
+
+
+<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169970030-277f578c-d25a-450b-bc40-71767f818df5.png">
+
+- Link: <a href="https://metakongz-raffle-auction.vercel.app/raffle" target="_blank">MetaKongz Raffle</a>
+- Live Link: <a href="https://metakongz-metamart.vercel.app">MetaKongz Raffle</a>
+  - Payment method
+    - $SOL, $BOOGA, $ZION
+  - Reward Type
+    - Receive NFT, WL spots(max: 50)
+- Original Links:
+  - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
+  - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
+- Github repo: <a href="https://github.com/eriksol116/raffle-pro-contract" target="_blank">raffle-auction-prospect3</a>
+
+
+<h3><u><strong><i>Auction House</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166192340-300d7d3b-5251-431e-91a6-e1c6235aeacd.png">
+
+This is the auction platform that users can bid with several 💵spl-tokens and the highest bidder(winner) will be receive the NFT.
+
+- Link: <a href="https://auction-doge.vercel.app/auction">Doge Auction</a>
+- Online link: <a href="https://mausoleum.tombstoned.xyz">The Mausolem Auction</a>
+  - Payment method
+    - SOL
+    - Various SPL tokens
+  - Reward Type
+    - NFT
+- Official Links:
+  - Website: <a href="https://www.thedogecapital.com">Doge Capital:</a>
+  - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
+  - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
+  - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
+- Github repo: <a href="https://github.com/eriksol116/auction-doge-rust">auction-doge</a>
+  - Project Structure:
+    - Auction contract
+    - Auction api
+    - Front-end
+
 <h3><u><strong><i>Cardano Solt Game</i></strong></u> &nbsp;(Cardano)</h3>
 <hr />
 
@@ -108,20 +261,6 @@ Attended this project as a fullstack blockchain developer.
 - Live: <a href="https://www.spacerace.site">Spacerace</a>
 - Github repo: <a href="https://github.com/eriksol116/SLOTs_BE_Cardano">Backend Code</a>
 
-
-
-<h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" height="250px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
-
-This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi. 😜.
-
-Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
-
-- Live: <a href="https://degentaxi.io">Degen Taxi</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/eriksol116/Taxi_Game_Program">taxi-crash-solana-contract</a>
 
 
 
@@ -143,25 +282,6 @@ The Solarmy is an interdimensional freedom fighting army of the future where all
   - Solarmy Game Program: <a href="https://github.com/eriksol116/Solarmy-Staking-Program" target="_blank">Program code</a>
   
 - Social Link: <a href="https://twitter.com/TheSolarmy" target="_blank">The Solarmy-twitter</a>
-  
-<h3><u><strong><i>Coinflip Game</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-
-
-
-<img align="right" height = "250px" src="https://user-images.githubusercontent.com/29230603/207527752-fb4e326a-1d7e-4ab6-bdc6-a30ad9d841d2.png" >
-
-This is the Coinflip game for Solana network
-
-- Original Link: <a href="https://coinflip.deezkits.com/" target="_blank">Coinflip Game</a>
-
-- Github repo: 
-  - Coinflip Game FE: <a href="https://github.com/eriksol116/Coinflip-Game/tree/main/coinflip-frontend" target="_blank">FE code</a>
-  - Coinflip Game BE: <a href="https://github.com/eriksol116/Coinflip-Game/tree/main/backend" target="_blank">BE code</a>
-  - Coinflip Game Program: <a href="https://github.com/eriksol116/Coinflip-Game/tree/main/coinflip-smart-contract" target="_blank">Program code</a>
-  
-- Social Link: <a href="https://mobile.twitter.com/deezkits" target="_blank">Deezkits-twitter</a>
 
 <h3><u><strong><i>DustyVaults</i></strong></u> &nbsp;(BSC)</h3>
 <hr />
@@ -348,69 +468,3 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Website: <a href="https://home.apexpredator.army">Apex Predator</a>
   - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
 - Github repo: <a href="https://github.com/eriksol116/ApeX-Raffle-program">Apex-Raffle</a>
-
-<h3><u><strong><i>EU(Eternal Underworld) Raffle</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166092522-f6b25eab-aefc-4278-9c2e-abd8f65712c0.png">
-
-This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🍂$REAP and $SOL.
-
-- Link: <a href="https://eu-raffle.vercel.app/raffle" target="_blank">EU Raffle</a>
-  - Payment method
-    - SOL
-    - $REAP (SPL token)
-  - Reward Type
-    - Reveive NFT
-    - Whitelist (Max value is 50)
-    - Tickets (Max value is 2000)
-- Original Links:
-  - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
-  - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
-  - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
-- Github repo: <a href="https://github.com/eriksol116/raffle-frank-rust" target="_blank">EU-raffle</a>
-
-
-<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169970030-277f578c-d25a-450b-bc40-71767f818df5.png">
-
-- Link: <a href="https://metakongz-raffle-auction.vercel.app/raffle" target="_blank">MetaKongz Raffle</a>
-- Live Link: <a href="https://metakongz-metamart.vercel.app">MetaKongz Raffle</a>
-  - Payment method
-    - $SOL, $BOOGA, $ZION
-  - Reward Type
-    - Receive NFT, WL spots(max: 50)
-- Original Links:
-  - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
-  - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
-- Github repo: <a href="https://github.com/eriksol116/raffle-pro-contract" target="_blank">raffle-auction-prospect3</a>
-
-
-<h3><u><strong><i>Auction House</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166192340-300d7d3b-5251-431e-91a6-e1c6235aeacd.png">
-
-This is the auction platform that users can bid with several 💵spl-tokens and the highest bidder(winner) will be receive the NFT.
-
-- Link: <a href="https://auction-doge.vercel.app/auction">Doge Auction</a>
-- Online link: <a href="https://mausoleum.tombstoned.xyz">The Mausolem Auction</a>
-  - Payment method
-    - SOL
-    - Various SPL tokens
-  - Reward Type
-    - NFT
-- Official Links:
-  - Website: <a href="https://www.thedogecapital.com">Doge Capital:</a>
-  - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
-  - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
-  - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
-- Github repo: <a href="https://github.com/eriksol116/auction-doge-rust">auction-doge</a>
-  - Project Structure:
-    - Auction contract
-    - Auction api
-    - Front-end
